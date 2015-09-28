@@ -1,0 +1,10 @@
+E:\Visual Studio\Projects\03.Object-Oriented Programming\01.OOP_Defining_Classes\03.PCCatalog\bin\Debug\03.PCCatalog.exe.config
+E:\Visual Studio\Projects\03.Object-Oriented Programming\01.OOP-Defining-Classes-Homework\03.PCCatalog\bin\Debug\03.PCCatalog.exe.config
+E:\Visual Studio\Projects\03.Object-Oriented Programming\01.OOP-Defining-Classes-Homework\03.PCCatalog\bin\Debug\03.PCCatalog.exe
+E:\Visual Studio\Projects\03.Object-Oriented Programming\01.OOP-Defining-Classes-Homework\03.PCCatalog\bin\Debug\03.PCCatalog.pdb
+E:\Visual Studio\Projects\03.Object-Oriented Programming\01.OOP-Defining-Classes-Homework\03.PCCatalog\obj\Debug\03.PCCatalog.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\03.Object-Oriented Programming\01.OOP-Defining-Classes-Homework\03.PCCatalog\obj\Debug\03.PCCatalog.exe
+E:\Visual Studio\Projects\03.Object-Oriented Programming\01.OOP-Defining-Classes-Homework\03.PCCatalog\obj\Debug\03.PCCatalog.pdb
+E:\Visual Studio\Projects\03.OOP\01.OOP-Defining-Classes-Homework\03.PCCatalog\bin\Debug\03.PCCatalog.exe.config
+E:\Visual Studio\Projects\03.OOP\01.OOP-Defining-Classes-Homework\03.PCCatalog\obj\Debug\03.PCCatalog.exe
+E:\Visual Studio\Projects\03.OOP\01.OOP-Defining-Classes-Homework\03.PCCatalog\obj\Debug\03.PCCatalog.pdb

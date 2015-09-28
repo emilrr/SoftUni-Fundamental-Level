@@ -1,0 +1,11 @@
+E:\Visual Studio\Projects\03.Object-Oriented Programming\02.OOP-Static-Members-and-Namespaces-HW\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe.config
+E:\Visual Studio\Projects\03.Object-Oriented Programming\02.OOP-Static-Members-and-Namespaces-HW\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe
+E:\Visual Studio\Projects\03.Object-Oriented Programming\02.OOP-Static-Members-and-Namespaces-HW\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.pdb
+E:\Visual Studio\Projects\03.Object-Oriented Programming\02.OOP-Static-Members-and-Namespaces-HW\02.DistanceCalculator\bin\Debug\01.Point3D.exe
+E:\Visual Studio\Projects\03.Object-Oriented Programming\02.OOP-Static-Members-and-Namespaces-HW\02.DistanceCalculator\bin\Debug\01.Point3D.pdb
+E:\Visual Studio\Projects\03.Object-Oriented Programming\02.OOP-Static-Members-and-Namespaces-HW\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\03.Object-Oriented Programming\02.OOP-Static-Members-and-Namespaces-HW\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.exe
+E:\Visual Studio\Projects\03.Object-Oriented Programming\02.OOP-Static-Members-and-Namespaces-HW\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.pdb
+E:\Visual Studio\Projects\03.OOP\02.OOP-Static-Members-and-Namespaces-HW\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe.config
+E:\Visual Studio\Projects\03.OOP\02.OOP-Static-Members-and-Namespaces-HW\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.exe
+E:\Visual Studio\Projects\03.OOP\02.OOP-Static-Members-and-Namespaces-HW\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.pdb

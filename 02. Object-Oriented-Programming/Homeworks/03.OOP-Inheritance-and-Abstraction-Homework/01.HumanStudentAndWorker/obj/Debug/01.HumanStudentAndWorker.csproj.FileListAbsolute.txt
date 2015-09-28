@@ -1,0 +1,9 @@
+E:\Visual Studio\Projects\03.OOP\03.OOP-Inheritance-and-Abstraction-Homework\01.HumanStudentAndWorker\bin\Debug\01.HumanStudentAndWorker.exe.config
+E:\Visual Studio\Projects\03.OOP\03.OOP-Inheritance-and-Abstraction-Homework\01.HumanStudentAndWorker\bin\Debug\01.HumanStudentAndWorker.exe
+E:\Visual Studio\Projects\03.OOP\03.OOP-Inheritance-and-Abstraction-Homework\01.HumanStudentAndWorker\bin\Debug\01.HumanStudentAndWorker.pdb
+E:\Visual Studio\Projects\03.OOP\03.OOP-Inheritance-and-Abstraction-Homework\01.HumanStudentAndWorker\obj\Debug\01.HumanStudentAndWorker.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\03.OOP\03.OOP-Inheritance-and-Abstraction-Homework\01.HumanStudentAndWorker\obj\Debug\01.HumanStudentAndWorker.exe
+E:\Visual Studio\Projects\03.OOP\03.OOP-Inheritance-and-Abstraction-Homework\01.HumanStudentAndWorker\obj\Debug\01.HumanStudentAndWorker.pdb
+E:\Visual Studio\Projects\03. ООП\03.OOP-Inheritance-and-Abstraction-Homework\01.HumanStudentAndWorker\bin\Debug\01.HumanStudentAndWorker.exe.config
+E:\Visual Studio\Projects\03. ООП\03.OOP-Inheritance-and-Abstraction-Homework\01.HumanStudentAndWorker\obj\Debug\01.HumanStudentAndWorker.exe
+E:\Visual Studio\Projects\03. ООП\03.OOP-Inheritance-and-Abstraction-Homework\01.HumanStudentAndWorker\obj\Debug\01.HumanStudentAndWorker.pdb

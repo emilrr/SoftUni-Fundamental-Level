@@ -1,0 +1,8 @@
+E:\Visual Studio\Projects\03.OOP\03.OOP-Inheritance-and-Abstraction-Homework\02.Animals\bin\Debug\02.Animals.exe.config
+E:\Visual Studio\Projects\03.OOP\03.OOP-Inheritance-and-Abstraction-Homework\02.Animals\bin\Debug\02.Animals.exe
+E:\Visual Studio\Projects\03.OOP\03.OOP-Inheritance-and-Abstraction-Homework\02.Animals\bin\Debug\02.Animals.pdb
+E:\Visual Studio\Projects\03.OOP\03.OOP-Inheritance-and-Abstraction-Homework\02.Animals\obj\Debug\02.Animals.exe
+E:\Visual Studio\Projects\03.OOP\03.OOP-Inheritance-and-Abstraction-Homework\02.Animals\obj\Debug\02.Animals.pdb
+E:\Visual Studio\Projects\03. ООП\03.OOP-Inheritance-and-Abstraction-Homework\02.Animals\bin\Debug\02.Animals.exe.config
+E:\Visual Studio\Projects\03. ООП\03.OOP-Inheritance-and-Abstraction-Homework\02.Animals\obj\Debug\02.Animals.exe
+E:\Visual Studio\Projects\03. ООП\03.OOP-Inheritance-and-Abstraction-Homework\02.Animals\obj\Debug\02.Animals.pdb

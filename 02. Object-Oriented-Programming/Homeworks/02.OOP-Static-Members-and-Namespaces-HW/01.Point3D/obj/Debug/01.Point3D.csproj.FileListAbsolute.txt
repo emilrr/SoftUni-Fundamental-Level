@@ -1,0 +1,9 @@
+E:\Visual Studio\Projects\03.Object-Oriented Programming\02.OOP-Static-Members-and-Namespaces-HW\01.Point3D\bin\Debug\01.Point3D.exe.config
+E:\Visual Studio\Projects\03.Object-Oriented Programming\02.OOP-Static-Members-and-Namespaces-HW\01.Point3D\bin\Debug\01.Point3D.exe
+E:\Visual Studio\Projects\03.Object-Oriented Programming\02.OOP-Static-Members-and-Namespaces-HW\01.Point3D\bin\Debug\01.Point3D.pdb
+E:\Visual Studio\Projects\03.Object-Oriented Programming\02.OOP-Static-Members-and-Namespaces-HW\01.Point3D\obj\Debug\01.Point3D.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\03.Object-Oriented Programming\02.OOP-Static-Members-and-Namespaces-HW\01.Point3D\obj\Debug\01.Point3D.exe
+E:\Visual Studio\Projects\03.Object-Oriented Programming\02.OOP-Static-Members-and-Namespaces-HW\01.Point3D\obj\Debug\01.Point3D.pdb
+E:\Visual Studio\Projects\03.OOP\02.OOP-Static-Members-and-Namespaces-HW\01.Point3D\bin\Debug\01.Point3D.exe.config
+E:\Visual Studio\Projects\03.OOP\02.OOP-Static-Members-and-Namespaces-HW\01.Point3D\obj\Debug\01.Point3D.exe
+E:\Visual Studio\Projects\03.OOP\02.OOP-Static-Members-and-Namespaces-HW\01.Point3D\obj\Debug\01.Point3D.pdb

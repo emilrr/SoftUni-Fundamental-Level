@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\03.OOP\07.OOP-Delegates-and-Events-Homework\04.StudentClass\bin\Debug\04.StudentClass.exe.config
+E:\Visual Studio\Projects\03.OOP\07.OOP-Delegates-and-Events-Homework\04.StudentClass\obj\Debug\04.StudentClass.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\03.OOP\07.OOP-Delegates-and-Events-Homework\04.StudentClass\bin\Debug\04.StudentClass.exe
+E:\Visual Studio\Projects\03.OOP\07.OOP-Delegates-and-Events-Homework\04.StudentClass\bin\Debug\04.StudentClass.pdb
+E:\Visual Studio\Projects\03.OOP\07.OOP-Delegates-and-Events-Homework\04.StudentClass\obj\Debug\04.StudentClass.exe
+E:\Visual Studio\Projects\03.OOP\07.OOP-Delegates-and-Events-Homework\04.StudentClass\obj\Debug\04.StudentClass.pdb

@@ -1,0 +1,15 @@
+E:\Visual Studio\Projects\03.Object-Oriented Programming\01.OOP_Defining_Classes\02.LaptopShop\bin\Debug\02.LaptopShop.exe.config
+E:\Visual Studio\Projects\03.Object-Oriented Programming\01.OOP_Defining_Classes\02.LaptopShop\bin\Debug\02.LaptopShop.exe
+E:\Visual Studio\Projects\03.Object-Oriented Programming\01.OOP_Defining_Classes\02.LaptopShop\bin\Debug\02.LaptopShop.pdb
+E:\Visual Studio\Projects\03.Object-Oriented Programming\01.OOP_Defining_Classes\02.LaptopShop\obj\Debug\02.LaptopShop.exe
+E:\Visual Studio\Projects\03.Object-Oriented Programming\01.OOP_Defining_Classes\02.LaptopShop\obj\Debug\02.LaptopShop.pdb
+E:\Visual Studio\Projects\03.Object-Oriented Programming\01.OOP_Defining_Classes\02.LaptopShop\obj\Debug\02.LaptopShop.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\03.Object-Oriented Programming\01.OOP-Defining-Classes-Homework\02.LaptopShop\bin\Debug\02.LaptopShop.exe.config
+E:\Visual Studio\Projects\03.Object-Oriented Programming\01.OOP-Defining-Classes-Homework\02.LaptopShop\obj\Debug\02.LaptopShop.exe
+E:\Visual Studio\Projects\03.Object-Oriented Programming\01.OOP-Defining-Classes-Homework\02.LaptopShop\obj\Debug\02.LaptopShop.pdb
+E:\Visual Studio\Projects\03.Object-Oriented Programming\01.OOP-Defining-Classes-Homework\02.LaptopShop\bin\Debug\02.LaptopShop.exe
+E:\Visual Studio\Projects\03.Object-Oriented Programming\01.OOP-Defining-Classes-Homework\02.LaptopShop\bin\Debug\02.LaptopShop.pdb
+E:\Visual Studio\Projects\03.Object-Oriented Programming\01.OOP-Defining-Classes-Homework\02.LaptopShop\obj\Debug\02.LaptopShop.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\03.OOP\01.OOP-Defining-Classes-Homework\02.LaptopShop\bin\Debug\02.LaptopShop.exe.config
+E:\Visual Studio\Projects\03.OOP\01.OOP-Defining-Classes-Homework\02.LaptopShop\obj\Debug\02.LaptopShop.exe
+E:\Visual Studio\Projects\03.OOP\01.OOP-Defining-Classes-Homework\02.LaptopShop\obj\Debug\02.LaptopShop.pdb
