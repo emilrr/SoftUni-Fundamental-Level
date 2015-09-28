@@ -1,0 +1,5 @@
+E:\Visual Studio\Projects\04. КПК\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+E:\Visual Studio\Projects\04. КПК\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+E:\Visual Studio\Projects\04. КПК\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\04. КПК\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+E:\Visual Studio\Projects\04. КПК\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

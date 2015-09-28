@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\04. КПК\17. Refactoring-Homework\WalkInMatrix\WalkInMatrix\bin\Debug\WalkInMatrix.exe.config
+E:\Visual Studio\Projects\04. КПК\17. Refactoring-Homework\WalkInMatrix\WalkInMatrix\bin\Debug\WalkInMatrix.exe
+E:\Visual Studio\Projects\04. КПК\17. Refactoring-Homework\WalkInMatrix\WalkInMatrix\bin\Debug\WalkInMatrix.pdb
+E:\Visual Studio\Projects\04. КПК\17. Refactoring-Homework\WalkInMatrix\WalkInMatrix\obj\Debug\WalkInMatrix.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\04. КПК\17. Refactoring-Homework\WalkInMatrix\WalkInMatrix\obj\Debug\WalkInMatrix.exe
+E:\Visual Studio\Projects\04. КПК\17. Refactoring-Homework\WalkInMatrix\WalkInMatrix\obj\Debug\WalkInMatrix.pdb

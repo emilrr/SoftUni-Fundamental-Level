@@ -1,0 +1,5 @@
+E:\Visual Studio\Projects\04. КПК\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.exe
+E:\Visual Studio\Projects\04. КПК\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.pdb
+E:\Visual Studio\Projects\04. КПК\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.exe
+E:\Visual Studio\Projects\04. КПК\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.pdb
+E:\Visual Studio\Projects\04. КПК\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache

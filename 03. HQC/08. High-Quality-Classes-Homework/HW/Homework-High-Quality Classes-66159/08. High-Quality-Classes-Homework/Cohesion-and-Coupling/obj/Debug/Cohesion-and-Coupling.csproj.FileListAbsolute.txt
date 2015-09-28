@@ -1,0 +1,9 @@
+D:\Dropbox\SoftUni\1. High-Quality Code\2015.07.15 - High-Quality Classes\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+D:\Dropbox\SoftUni\1. High-Quality Code\2015.07.15 - High-Quality Classes\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+D:\Dropbox\SoftUni\1. High-Quality Code\2015.07.15 - High-Quality Classes\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. High-Quality Code\2015.07.15 - High-Quality Classes\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+D:\Dropbox\SoftUni\1. High-Quality Code\2015.07.15 - High-Quality Classes\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb
+C:\Users\EmoR\Downloads\Homework-High-Quality Classes-66159\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+C:\Users\EmoR\Downloads\Homework-High-Quality Classes-66159\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb
+E:\Visual Studio\Projects\04. КПК\08. High-Quality-Classes-Homework\HW\Homework-High-Quality Classes-66159\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+E:\Visual Studio\Projects\04. КПК\08. High-Quality-Classes-Homework\HW\Homework-High-Quality Classes-66159\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

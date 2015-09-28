@@ -1,0 +1,6 @@
+D:\SoftUni\КПК\02.Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\bin\Debug\Orders.exe.config
+D:\SoftUni\КПК\02.Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\bin\Debug\Orders.exe
+D:\SoftUni\КПК\02.Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\bin\Debug\Orders.pdb
+D:\SoftUni\КПК\02.Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\obj\Debug\2. Orders.csprojResolveAssemblyReference.cache
+D:\SoftUni\КПК\02.Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\obj\Debug\Orders.exe
+D:\SoftUni\КПК\02.Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\obj\Debug\Orders.pdb

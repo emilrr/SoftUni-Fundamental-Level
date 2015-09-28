@@ -1,0 +1,7 @@
+C:\Users\Tina_BG\Desktop\softuni\Fundamental_level\KPK\HW\9\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions.csprojResolveAssemblyReference.cache
+C:\Users\Tina_BG\Desktop\softuni\Fundamental_level\KPK\HW\9\Assertions-and-Exceptions\Assertions\bin\Debug\Assertions-Homework.exe
+C:\Users\Tina_BG\Desktop\softuni\Fundamental_level\KPK\HW\9\Assertions-and-Exceptions\Assertions\bin\Debug\Assertions-Homework.pdb
+C:\Users\Tina_BG\Desktop\softuni\Fundamental_level\KPK\HW\9\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.exe
+C:\Users\Tina_BG\Desktop\softuni\Fundamental_level\KPK\HW\9\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.pdb
+C:\Users\EmoR\Downloads\Homework-Defensive Programming-67282\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.exe
+C:\Users\EmoR\Downloads\Homework-Defensive Programming-67282\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.pdb

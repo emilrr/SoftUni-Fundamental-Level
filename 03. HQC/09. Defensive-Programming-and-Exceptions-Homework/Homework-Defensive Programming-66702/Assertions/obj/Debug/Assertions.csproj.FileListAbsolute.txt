@@ -1,0 +1,7 @@
+D:\C#\HQC July - August 2015\Защитно програмиране\Assertions-and-Exceptions\Assertions\bin\Debug\Assertions-Homework.exe
+D:\C#\HQC July - August 2015\Защитно програмиране\Assertions-and-Exceptions\Assertions\bin\Debug\Assertions-Homework.pdb
+D:\C#\HQC July - August 2015\Защитно програмиране\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions.csprojResolveAssemblyReference.cache
+D:\C#\HQC July - August 2015\Защитно програмиране\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.exe
+D:\C#\HQC July - August 2015\Защитно програмиране\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.pdb
+C:\Users\EmoR\Downloads\Homework-Defensive Programming-66702\Assertions\obj\Debug\Assertions-Homework.exe
+C:\Users\EmoR\Downloads\Homework-Defensive Programming-66702\Assertions\obj\Debug\Assertions-Homework.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\КПК\02.Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\bin\Debug\Application2.exe.config
+D:\SoftUni\КПК\02.Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\bin\Debug\Application2.exe
+D:\SoftUni\КПК\02.Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\bin\Debug\Application2.pdb
+D:\SoftUni\КПК\02.Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\obj\Debug\Application2.exe
+D:\SoftUni\КПК\02.Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\obj\Debug\Application2.pdb

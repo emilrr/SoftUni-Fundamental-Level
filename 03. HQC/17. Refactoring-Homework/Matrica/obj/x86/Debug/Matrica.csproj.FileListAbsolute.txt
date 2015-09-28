@@ -1,0 +1,5 @@
+E:\Visual Studio\Projects\04. КПК\17. Refactoring-Homework\Matrica\bin\Debug\GameFifteen.exe
+E:\Visual Studio\Projects\04. КПК\17. Refactoring-Homework\Matrica\bin\Debug\GameFifteen.pdb
+E:\Visual Studio\Projects\04. КПК\17. Refactoring-Homework\Matrica\obj\x86\Debug\Matrica.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\04. КПК\17. Refactoring-Homework\Matrica\obj\x86\Debug\GameFifteen.exe
+E:\Visual Studio\Projects\04. КПК\17. Refactoring-Homework\Matrica\obj\x86\Debug\GameFifteen.pdb

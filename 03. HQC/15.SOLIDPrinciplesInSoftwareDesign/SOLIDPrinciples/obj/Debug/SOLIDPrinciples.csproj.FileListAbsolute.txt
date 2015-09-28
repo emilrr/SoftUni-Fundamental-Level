@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\04. КПК\15.SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciples\bin\Debug\SOLIDPrinciples.exe.config
+E:\Visual Studio\Projects\04. КПК\15.SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciples\bin\Debug\SOLIDPrinciples.exe
+E:\Visual Studio\Projects\04. КПК\15.SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciples\bin\Debug\SOLIDPrinciples.pdb
+E:\Visual Studio\Projects\04. КПК\15.SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciples\obj\Debug\SOLIDPrinciples.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\04. КПК\15.SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciples\obj\Debug\SOLIDPrinciples.exe
+E:\Visual Studio\Projects\04. КПК\15.SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciples\obj\Debug\SOLIDPrinciples.pdb

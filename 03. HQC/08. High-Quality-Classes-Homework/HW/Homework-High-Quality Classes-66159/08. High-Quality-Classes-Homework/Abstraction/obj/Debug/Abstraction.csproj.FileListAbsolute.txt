@@ -1,0 +1,9 @@
+D:\Dropbox\SoftUni\1. High-Quality Code\2015.07.15 - High-Quality Classes\08. High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.exe
+D:\Dropbox\SoftUni\1. High-Quality Code\2015.07.15 - High-Quality Classes\08. High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.pdb
+D:\Dropbox\SoftUni\1. High-Quality Code\2015.07.15 - High-Quality Classes\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. High-Quality Code\2015.07.15 - High-Quality Classes\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.exe
+D:\Dropbox\SoftUni\1. High-Quality Code\2015.07.15 - High-Quality Classes\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.pdb
+C:\Users\EmoR\Downloads\Homework-High-Quality Classes-66159\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\EmoR\Downloads\Homework-High-Quality Classes-66159\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.pdb
+E:\Visual Studio\Projects\04. КПК\08. High-Quality-Classes-Homework\HW\Homework-High-Quality Classes-66159\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.exe
+E:\Visual Studio\Projects\04. КПК\08. High-Quality-Classes-Homework\HW\Homework-High-Quality Classes-66159\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.pdb

@@ -1,0 +1,7 @@
+C:\Users\Tina_BG\Desktop\softuni\Fundamental_level\KPK\HW\9\Assertions-and-Exceptions\Exceptions\obj\Debug\ExceptionsHomework.csprojResolveAssemblyReference.cache
+C:\Users\Tina_BG\Desktop\softuni\Fundamental_level\KPK\HW\9\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.exe
+C:\Users\Tina_BG\Desktop\softuni\Fundamental_level\KPK\HW\9\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.exe
+C:\Users\Tina_BG\Desktop\softuni\Fundamental_level\KPK\HW\9\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.pdb
+C:\Users\Tina_BG\Desktop\softuni\Fundamental_level\KPK\HW\9\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.pdb
+C:\Users\Tina_BG\Desktop\softuni\Fundamental_level\KPK\HW\9\Assertions-and-Exceptions\Exceptions\bin\Debug\StringUtils.dll
+C:\Users\Tina_BG\Desktop\softuni\Fundamental_level\KPK\HW\9\Assertions-and-Exceptions\Exceptions\bin\Debug\Utils.dll

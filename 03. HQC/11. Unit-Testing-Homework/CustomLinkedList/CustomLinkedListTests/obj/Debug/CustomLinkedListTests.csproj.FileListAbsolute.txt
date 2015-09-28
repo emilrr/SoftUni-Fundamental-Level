@@ -1,0 +1,7 @@
+E:\Visual Studio\Projects\04. КПК\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\bin\Debug\CustomLinkedListTests.dll
+E:\Visual Studio\Projects\04. КПК\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\bin\Debug\CustomLinkedListTests.pdb
+E:\Visual Studio\Projects\04. КПК\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\bin\Debug\CustomLinkedList.dll
+E:\Visual Studio\Projects\04. КПК\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\bin\Debug\CustomLinkedList.pdb
+E:\Visual Studio\Projects\04. КПК\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\obj\Debug\CustomLinkedListTests.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\04. КПК\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\obj\Debug\CustomLinkedListTests.dll
+E:\Visual Studio\Projects\04. КПК\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\obj\Debug\CustomLinkedListTests.pdb
