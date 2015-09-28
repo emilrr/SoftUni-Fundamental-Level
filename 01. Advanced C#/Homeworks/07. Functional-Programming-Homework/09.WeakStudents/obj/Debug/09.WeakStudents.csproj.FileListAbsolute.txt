@@ -1,0 +1,11 @@
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\09.WeakStudents\bin\Debug\09.WeakStudents.exe.config
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\09.WeakStudents\bin\Debug\09.WeakStudents.exe
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\09.WeakStudents\bin\Debug\09.WeakStudents.pdb
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\09.WeakStudents\obj\Debug\09.WeakStudents.exe
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\09.WeakStudents\obj\Debug\09.WeakStudents.pdb
+E:\Visual Studio\Projects\02. Advanced C#\07.Functional-Programming\09.WeakStudents\bin\Debug\09.WeakStudents.exe.config
+E:\Visual Studio\Projects\02. Advanced C#\07.Functional-Programming\09.WeakStudents\obj\Debug\09.WeakStudents.exe
+E:\Visual Studio\Projects\02. Advanced C#\07.Functional-Programming\09.WeakStudents\obj\Debug\09.WeakStudents.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\07. Functional-Programming-Homework\09.WeakStudents\bin\Debug\09.WeakStudents.exe.config
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\07. Functional-Programming-Homework\09.WeakStudents\obj\Debug\09.WeakStudents.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\07. Functional-Programming-Homework\09.WeakStudents\obj\Debug\09.WeakStudents.pdb

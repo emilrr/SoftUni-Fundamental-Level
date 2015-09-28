@@ -1,0 +1,9 @@
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.exe.config
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.exe
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.pdb
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.exe
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.pdb
+E:\Visual Studio\Projects\02. Advanced C#\04.Strings-And-Text-Processing\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.exe.config
+E:\Visual Studio\Projects\02. Advanced C#\04.Strings-And-Text-Processing\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.exe
+E:\Visual Studio\Projects\02. Advanced C#\04.Strings-And-Text-Processing\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.pdb

@@ -1,0 +1,8 @@
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\02.StudentsByGroup\bin\Debug\02.StudentsByGroup.exe.config
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\02.StudentsByGroup\bin\Debug\02.StudentsByGroup.exe
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\02.StudentsByGroup\bin\Debug\02.StudentsByGroup.pdb
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\02.StudentsByGroup\obj\Debug\02.StudentsByGroup.exe
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\02.StudentsByGroup\obj\Debug\02.StudentsByGroup.pdb
+E:\Visual Studio\Projects\02.Advanced C#\07.Functional-Programming\02.StudentsByGroup\bin\Debug\02.StudentsByGroup.exe.config
+E:\Visual Studio\Projects\02.Advanced C#\07.Functional-Programming\02.StudentsByGroup\obj\Debug\02.StudentsByGroup.exe
+E:\Visual Studio\Projects\02.Advanced C#\07.Functional-Programming\02.StudentsByGroup\obj\Debug\02.StudentsByGroup.pdb

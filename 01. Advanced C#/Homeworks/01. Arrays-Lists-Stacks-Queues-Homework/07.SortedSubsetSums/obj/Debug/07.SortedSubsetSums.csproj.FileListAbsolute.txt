@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.exe.config
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.csprojResolveAssemblyReference.cache

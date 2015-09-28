@@ -1,0 +1,18 @@
+E:\Visual Studio\Projects\Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.exe.config
+E:\Visual Studio\Projects\Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.exe
+E:\Visual Studio\Projects\Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.pdb
+E:\Visual Studio\Projects\Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.exe
+E:\Visual Studio\Projects\Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.pdb
+E:\Visual Studio\Projects\02.Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.exe.config
+E:\Visual Studio\Projects\02.Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.exe
+E:\Visual Studio\Projects\02.Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.pdb
+E:\Visual Studio\Projects\02. Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.exe.config
+E:\Visual Studio\Projects\02. Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.exe
+E:\Visual Studio\Projects\02. Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.exe.config
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.csprojResolveAssemblyReference.cache

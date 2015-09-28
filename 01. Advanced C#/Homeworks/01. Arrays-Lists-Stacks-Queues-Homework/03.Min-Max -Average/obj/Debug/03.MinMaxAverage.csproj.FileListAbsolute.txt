@@ -1,0 +1,11 @@
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\03.Min-Max -Average\bin\Debug\03.Min-Max -Average.exe.config
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\03.Min-Max -Average\obj\Debug\03.Min-Max -Average.exe
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\03.Min-Max -Average\obj\Debug\03.Min-Max -Average.pdb
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\03.Min-Max -Average\bin\Debug\03.Min-Max -Average.exe
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\03.Min-Max -Average\bin\Debug\03.Min-Max -Average.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\03.Min-Max -Average\bin\Debug\03.Min-Max -Average.exe.config
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\03.Min-Max -Average\obj\Debug\03.Min-Max -Average.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\03.Min-Max -Average\obj\Debug\03.Min-Max -Average.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\03.Min-Max -Average\bin\Debug\03.Min-Max -Average.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\03.Min-Max -Average\bin\Debug\03.Min-Max -Average.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\03.Min-Max -Average\obj\Debug\03.MinMaxAverage.csprojResolveAssemblyReference.cache

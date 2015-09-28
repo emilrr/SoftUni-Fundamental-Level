@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\Advanced C#\02.Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
+E:\Visual Studio\Projects\Advanced C#\02.Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe
+E:\Visual Studio\Projects\Advanced C#\02.Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.pdb
+E:\Visual Studio\Projects\Advanced C#\02.Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\Advanced C#\02.Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
+E:\Visual Studio\Projects\Advanced C#\02.Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb

@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\08.NightLife\bin\Debug\08.NightLife.exe.config
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\08.NightLife\bin\Debug\08.NightLife.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\08.NightLife\bin\Debug\08.NightLife.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\08.NightLife\obj\Debug\08.NightLife.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\08.NightLife\obj\Debug\08.NightLife.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\08.NightLife\obj\Debug\08.NightLife.csprojResolveAssemblyReference.cache

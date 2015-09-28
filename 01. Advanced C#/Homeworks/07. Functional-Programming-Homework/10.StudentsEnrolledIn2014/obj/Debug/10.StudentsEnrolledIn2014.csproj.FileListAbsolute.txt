@@ -1,0 +1,8 @@
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\10.StudentsEnrolledIn2014\bin\Debug\10.StudentsEnrolledIn2014.exe.config
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\10.StudentsEnrolledIn2014\bin\Debug\10.StudentsEnrolledIn2014.exe
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\10.StudentsEnrolledIn2014\bin\Debug\10.StudentsEnrolledIn2014.pdb
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\10.StudentsEnrolledIn2014\obj\Debug\10.StudentsEnrolledIn2014.exe
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\10.StudentsEnrolledIn2014\obj\Debug\10.StudentsEnrolledIn2014.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\07. Functional-Programming-Homework\10.StudentsEnrolledIn2014\bin\Debug\10.StudentsEnrolledIn2014.exe.config
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\07. Functional-Programming-Homework\10.StudentsEnrolledIn2014\obj\Debug\10.StudentsEnrolledIn2014.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\07. Functional-Programming-Homework\10.StudentsEnrolledIn2014\obj\Debug\10.StudentsEnrolledIn2014.pdb

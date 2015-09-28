@@ -1,0 +1,11 @@
+E:\Visual Studio\Projects\Advanced C#\05.Regular-Expressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe.config
+E:\Visual Studio\Projects\Advanced C#\05.Regular-Expressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe
+E:\Visual Studio\Projects\Advanced C#\05.Regular-Expressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.pdb
+E:\Visual Studio\Projects\Advanced C#\05.Regular-Expressions\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.exe
+E:\Visual Studio\Projects\Advanced C#\05.Regular-Expressions\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe.config
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.pdb

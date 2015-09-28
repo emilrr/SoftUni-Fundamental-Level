@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\07. Functional-Programming-Homework\14.TextGravity\bin\Debug\14.TextGravity.exe.config
+E:\Visual Studio\Projects\SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\07. Functional-Programming-Homework\14.TextGravity\bin\Debug\14.TextGravity.exe
+E:\Visual Studio\Projects\SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\07. Functional-Programming-Homework\14.TextGravity\bin\Debug\14.TextGravity.pdb
+E:\Visual Studio\Projects\SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\07. Functional-Programming-Homework\14.TextGravity\obj\Debug\14.TextGravity.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\07. Functional-Programming-Homework\14.TextGravity\obj\Debug\14.TextGravity.exe
+E:\Visual Studio\Projects\SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\07. Functional-Programming-Homework\14.TextGravity\obj\Debug\14.TextGravity.pdb

@@ -1,0 +1,5 @@
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\03.StudentsByFirstAndLastName\bin\Debug\03.StudentsByFirstAndLastName.exe.config
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\03.StudentsByFirstAndLastName\bin\Debug\03.StudentsByFirstAndLastName.exe
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\03.StudentsByFirstAndLastName\bin\Debug\03.StudentsByFirstAndLastName.pdb
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\03.StudentsByFirstAndLastName\obj\Debug\03.StudentsByFirstAndLastName.exe
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\03.StudentsByFirstAndLastName\obj\Debug\03.StudentsByFirstAndLastName.pdb

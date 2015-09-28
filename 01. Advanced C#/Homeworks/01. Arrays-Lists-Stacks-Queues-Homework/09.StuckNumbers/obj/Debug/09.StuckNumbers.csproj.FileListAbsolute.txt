@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\09.StuckNumbers\bin\Debug\09.StuckNumbers.exe.config
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\09.StuckNumbers\bin\Debug\09.StuckNumbers.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\09.StuckNumbers\bin\Debug\09.StuckNumbers.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\09.StuckNumbers\obj\Debug\09.StuckNumbers.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\09.StuckNumbers\obj\Debug\09.StuckNumbers.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\09.StuckNumbers\obj\Debug\09.StuckNumbers.pdb

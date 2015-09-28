@@ -1,0 +1,8 @@
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\02.StringLength\bin\Debug\02.StringLength.exe.config
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\02.StringLength\bin\Debug\02.StringLength.exe
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\02.StringLength\bin\Debug\02.StringLength.pdb
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\02.StringLength\obj\Debug\02.StringLength.exe
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\02.StringLength\obj\Debug\02.StringLength.pdb
+E:\Visual Studio\Projects\02.Advanced C#\04.Strings-And-Text-Processing\02.StringLength\bin\Debug\02.StringLength.exe.config
+E:\Visual Studio\Projects\02.Advanced C#\04.Strings-And-Text-Processing\02.StringLength\obj\Debug\02.StringLength.exe
+E:\Visual Studio\Projects\02.Advanced C#\04.Strings-And-Text-Processing\02.StringLength\obj\Debug\02.StringLength.pdb

@@ -1,0 +1,5 @@
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\07.QueryMess\bin\Debug\07.QueryMess.exe.config
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\07.QueryMess\bin\Debug\07.QueryMess.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\07.QueryMess\bin\Debug\07.QueryMess.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\07.QueryMess\obj\Debug\07.QueryMess.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\07.QueryMess\obj\Debug\07.QueryMess.pdb

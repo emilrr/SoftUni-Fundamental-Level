@@ -1,0 +1,5 @@
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\18.PINValidation\bin\Debug\18.PINValidation.exe.config
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\18.PINValidation\bin\Debug\18.PINValidation.exe
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\18.PINValidation\bin\Debug\18.PINValidation.pdb
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\18.PINValidation\obj\Debug\18.PINValidation.exe
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\18.PINValidation\obj\Debug\18.PINValidation.pdb

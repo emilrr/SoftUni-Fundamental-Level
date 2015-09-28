@@ -1,0 +1,5 @@
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\08.TextGravity\bin\Debug\08.TextGravity.exe.config
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\08.TextGravity\bin\Debug\08.TextGravity.exe
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\08.TextGravity\bin\Debug\08.TextGravity.pdb
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\08.TextGravity\obj\Debug\08.TextGravity.exe
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\08.TextGravity\obj\Debug\08.TextGravity.pdb

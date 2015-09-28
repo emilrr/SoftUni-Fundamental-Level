@@ -1,0 +1,5 @@
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\16.Parachute\bin\Debug\16.Parachute.exe.config
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\16.Parachute\bin\Debug\16.Parachute.exe
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\16.Parachute\bin\Debug\16.Parachute.pdb
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\16.Parachute\obj\Debug\16.Parachute.exe
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\16.Parachute\obj\Debug\16.Parachute.pdb

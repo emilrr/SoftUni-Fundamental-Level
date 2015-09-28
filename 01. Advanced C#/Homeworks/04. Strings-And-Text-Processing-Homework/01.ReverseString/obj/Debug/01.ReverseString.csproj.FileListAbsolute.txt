@@ -1,0 +1,12 @@
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\01.ReverseString\bin\Debug\01.ReverseString.exe.config
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\01.ReverseString\obj\Debug\01.ReverseString.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\01.ReverseString\bin\Debug\01.ReverseString.exe
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\01.ReverseString\bin\Debug\01.ReverseString.pdb
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\01.ReverseString\obj\Debug\01.ReverseString.exe
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\01.ReverseString\obj\Debug\01.ReverseString.pdb
+E:\Visual Studio\Projects\02.Advanced C#\04.Strings-And-Text-Processing\01.ReverseString\bin\Debug\01.ReverseString.exe.config
+E:\Visual Studio\Projects\02.Advanced C#\04.Strings-And-Text-Processing\01.ReverseString\obj\Debug\01.ReverseString.exe
+E:\Visual Studio\Projects\02.Advanced C#\04.Strings-And-Text-Processing\01.ReverseString\obj\Debug\01.ReverseString.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\04. Strings-And-Text-Processing-Homework\01.ReverseString\bin\Debug\01.ReverseString.exe.config
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\04. Strings-And-Text-Processing-Homework\01.ReverseString\obj\Debug\01.ReverseString.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\04. Strings-And-Text-Processing-Homework\01.ReverseString\obj\Debug\01.ReverseString.pdb

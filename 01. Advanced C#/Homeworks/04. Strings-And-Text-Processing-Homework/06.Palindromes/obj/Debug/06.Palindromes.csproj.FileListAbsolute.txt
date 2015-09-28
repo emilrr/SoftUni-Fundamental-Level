@@ -1,0 +1,15 @@
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\06.Palindromes\bin\Debug\06.Palindromes.exe.config
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\06.Palindromes\bin\Debug\06.Palindromes.exe
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\06.Palindromes\bin\Debug\06.Palindromes.pdb
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\06.Palindromes\obj\Debug\06.Palindromes.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\06.Palindromes\obj\Debug\06.Palindromes.exe
+E:\Visual Studio\Projects\Advanced C#\04.Strings-And-Text-Processing\06.Palindromes\obj\Debug\06.Palindromes.pdb
+E:\Visual Studio\Projects\02. Advanced C#\04.Strings-And-Text-Processing\06.Palindromes\bin\Debug\06.Palindromes.exe.config
+E:\Visual Studio\Projects\02. Advanced C#\04.Strings-And-Text-Processing\06.Palindromes\obj\Debug\06.Palindromes.exe
+E:\Visual Studio\Projects\02. Advanced C#\04.Strings-And-Text-Processing\06.Palindromes\obj\Debug\06.Palindromes.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\04. Strings-And-Text-Processing-Homework\06.Palindromes\bin\Debug\06.Palindromes.exe.config
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\04. Strings-And-Text-Processing-Homework\06.Palindromes\obj\Debug\06.Palindromes.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\04. Strings-And-Text-Processing-Homework\06.Palindromes\obj\Debug\06.Palindromes.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\04. Strings-And-Text-Processing-Homework\06.Palindromes\bin\Debug\06.Palindromes.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\04. Strings-And-Text-Processing-Homework\06.Palindromes\bin\Debug\06.Palindromes.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\04. Strings-And-Text-Processing-Homework\06.Palindromes\obj\Debug\06.Palindromes.csprojResolveAssemblyReference.cache

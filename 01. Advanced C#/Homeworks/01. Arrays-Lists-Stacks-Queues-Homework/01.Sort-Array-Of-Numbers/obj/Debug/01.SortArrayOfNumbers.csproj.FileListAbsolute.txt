@@ -1,0 +1,15 @@
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\01.Sort-Array-Of-Numbers\bin\Debug\01.Sort-Array-Of-Numbers.exe.config
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\01.Sort-Array-Of-Numbers\obj\Debug\01.Sort-Array-Of-Numbers.exe
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\01.Sort-Array-Of-Numbers\obj\Debug\01.Sort-Array-Of-Numbers.pdb
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\01.Sort-Array-Of-Numbers\bin\Debug\01.Sort-Array-Of-Numbers.exe
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\01.Sort-Array-Of-Numbers\bin\Debug\01.Sort-Array-Of-Numbers.pdb
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\01.Sort-Array-Of-Numbers\obj\Debug\01.SortArrayOfNumbers.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\02.Advanced C#\01.Arrays-Lists-Stacks-Queues\01.Sort-Array-Of-Numbers\bin\Debug\01.Sort-Array-Of-Numbers.exe.config
+E:\Visual Studio\Projects\02.Advanced C#\01.Arrays-Lists-Stacks-Queues\01.Sort-Array-Of-Numbers\obj\Debug\01.Sort-Array-Of-Numbers.exe
+E:\Visual Studio\Projects\02.Advanced C#\01.Arrays-Lists-Stacks-Queues\01.Sort-Array-Of-Numbers\obj\Debug\01.Sort-Array-Of-Numbers.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\01.Sort-Array-Of-Numbers\bin\Debug\01.Sort-Array-Of-Numbers.exe.config
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\01.Sort-Array-Of-Numbers\obj\Debug\01.Sort-Array-Of-Numbers.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\01.Sort-Array-Of-Numbers\obj\Debug\01.Sort-Array-Of-Numbers.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\01.Sort-Array-Of-Numbers\bin\Debug\01.Sort-Array-Of-Numbers.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\01.Sort-Array-Of-Numbers\bin\Debug\01.Sort-Array-Of-Numbers.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\01.Sort-Array-Of-Numbers\obj\Debug\01.SortArrayOfNumbers.csprojResolveAssemblyReference.cache

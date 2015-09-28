@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\06.ExtractHyperlinks\bin\Debug\06.ExtractHyperlinks.exe.config
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\06.ExtractHyperlinks\bin\Debug\06.ExtractHyperlinks.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\06.ExtractHyperlinks\bin\Debug\06.ExtractHyperlinks.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\06.ExtractHyperlinks\obj\Debug\06.ExtractHyperlinks.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\06.ExtractHyperlinks\obj\Debug\06.ExtractHyperlinks.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\06.ExtractHyperlinks\obj\Debug\06.ExtractHyperlinks.pdb

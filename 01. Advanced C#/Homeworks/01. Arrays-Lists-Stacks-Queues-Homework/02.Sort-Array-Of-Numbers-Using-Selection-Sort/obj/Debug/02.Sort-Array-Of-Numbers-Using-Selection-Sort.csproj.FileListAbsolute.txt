@@ -1,0 +1,1 @@
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\02.Sort-Array-Of-Numbers-Using-Selection-Sort\bin\Debug\02.Sort-Array-Of-Numbers-Using-Selection-Sort.exe.config

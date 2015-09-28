@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\05.Longest-Increasing-Sequence\bin\Debug\05.Longest-Increasing-Sequence.exe.config
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\05.Longest-Increasing-Sequence\bin\Debug\05.Longest-Increasing-Sequence.exe
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\05.Longest-Increasing-Sequence\bin\Debug\05.Longest-Increasing-Sequence.pdb
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\05.Longest-Increasing-Sequence\obj\Debug\05.Longest-Increasing-Sequence.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\05.Longest-Increasing-Sequence\obj\Debug\05.Longest-Increasing-Sequence.exe
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\05.Longest-Increasing-Sequence\obj\Debug\05.Longest-Increasing-Sequence.pdb

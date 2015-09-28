@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\03.Min-Max -Average\bin\Debug\03.Min-Max -Average.exe.config
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\03.Min-Max -Average\bin\Debug\03.Min-Max -Average.exe
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\03.Min-Max -Average\bin\Debug\03.Min-Max -Average.pdb
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\03.Min-Max -Average\obj\Debug\03.Min-Max -Average.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\03.Min-Max -Average\obj\Debug\03.Min-Max -Average.exe
+E:\Visual Studio\Projects\Advanced C#\01.Arrays-Lists-Stacks-Queues\03.Min-Max -Average\obj\Debug\03.Min-Max -Average.pdb

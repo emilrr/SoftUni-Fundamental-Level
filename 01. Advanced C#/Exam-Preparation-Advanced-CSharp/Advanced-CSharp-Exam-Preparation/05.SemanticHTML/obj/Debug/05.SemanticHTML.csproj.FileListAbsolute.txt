@@ -1,0 +1,5 @@
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\05.SemanticHTML\bin\Debug\05.SemanticHTML.exe.config
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\05.SemanticHTML\bin\Debug\05.SemanticHTML.exe
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\05.SemanticHTML\bin\Debug\05.SemanticHTML.pdb
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\05.SemanticHTML\obj\Debug\05.SemanticHTML.exe
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\05.SemanticHTML\obj\Debug\05.SemanticHTML.pdb

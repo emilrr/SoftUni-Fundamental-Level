@@ -1,0 +1,5 @@
+E:\Visual Studio\Projects\Advanced C#\02.Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe.config
+E:\Visual Studio\Projects\Advanced C#\02.Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe
+E:\Visual Studio\Projects\Advanced C#\02.Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.pdb
+E:\Visual Studio\Projects\Advanced C#\02.Methods\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.exe
+E:\Visual Studio\Projects\Advanced C#\02.Methods\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.pdb

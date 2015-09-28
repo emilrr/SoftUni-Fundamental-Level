@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\10.PythagoreanNumbers\bin\Debug\10.PythagoreanNumbers.exe.config
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\10.PythagoreanNumbers\obj\Debug\10.PythagoreanNumbers.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\10.PythagoreanNumbers\bin\Debug\10.PythagoreanNumbers.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\10.PythagoreanNumbers\bin\Debug\10.PythagoreanNumbers.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\10.PythagoreanNumbers\obj\Debug\10.PythagoreanNumbers.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\10.PythagoreanNumbers\obj\Debug\10.PythagoreanNumbers.pdb

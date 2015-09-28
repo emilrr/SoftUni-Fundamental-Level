@@ -1,0 +1,5 @@
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\20.OMyGirl\bin\Debug\20.OMyGirl.exe.config
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\20.OMyGirl\bin\Debug\20.OMyGirl.exe
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\20.OMyGirl\bin\Debug\20.OMyGirl.pdb
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\20.OMyGirl\obj\Debug\20.OMyGirl.exe
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\20.OMyGirl\obj\Debug\20.OMyGirl.pdb

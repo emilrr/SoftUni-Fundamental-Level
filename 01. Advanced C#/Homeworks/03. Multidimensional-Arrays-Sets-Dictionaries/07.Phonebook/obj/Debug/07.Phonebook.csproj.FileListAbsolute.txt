@@ -1,0 +1,5 @@
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\07.Phonebook\bin\Debug\07.Phonebook.exe.config
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\07.Phonebook\bin\Debug\07.Phonebook.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\07.Phonebook\bin\Debug\07.Phonebook.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\07.Phonebook\obj\Debug\07.Phonebook.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\07.Phonebook\obj\Debug\07.Phonebook.pdb

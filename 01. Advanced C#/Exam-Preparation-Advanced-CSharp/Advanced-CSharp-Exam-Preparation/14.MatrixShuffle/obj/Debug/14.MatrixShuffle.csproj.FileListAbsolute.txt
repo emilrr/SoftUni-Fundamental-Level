@@ -1,0 +1,5 @@
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\14.MatrixShuffle\bin\Debug\14.MatrixShuffle.exe.config
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\14.MatrixShuffle\bin\Debug\14.MatrixShuffle.exe
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\14.MatrixShuffle\bin\Debug\14.MatrixShuffle.pdb
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\14.MatrixShuffle\obj\Debug\14.MatrixShuffle.exe
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\14.MatrixShuffle\obj\Debug\14.MatrixShuffle.pdb

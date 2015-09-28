@@ -1,0 +1,5 @@
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\11.StringMatrixRotation\bin\Debug\11.StringMatrixRotation.exe.config
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\11.StringMatrixRotation\bin\Debug\11.StringMatrixRotation.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\11.StringMatrixRotation\bin\Debug\11.StringMatrixRotation.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\11.StringMatrixRotation\obj\Debug\11.StringMatrixRotation.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\11.StringMatrixRotation\obj\Debug\11.StringMatrixRotation.pdb

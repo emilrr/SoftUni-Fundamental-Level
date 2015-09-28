@@ -1,0 +1,5 @@
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\15.TheNumbers\bin\Debug\15.TheNumbers.exe.config
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\15.TheNumbers\bin\Debug\15.TheNumbers.exe
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\15.TheNumbers\bin\Debug\15.TheNumbers.pdb
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\15.TheNumbers\obj\Debug\15.TheNumbers.exe
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\15.TheNumbers\obj\Debug\15.TheNumbers.pdb

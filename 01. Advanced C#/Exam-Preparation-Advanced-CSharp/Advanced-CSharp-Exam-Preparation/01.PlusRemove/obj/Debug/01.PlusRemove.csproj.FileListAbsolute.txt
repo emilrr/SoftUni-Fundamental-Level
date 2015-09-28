@@ -1,0 +1,6 @@
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\01.PlusRemove\bin\Debug\01.PlusRemove.exe.config
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\01.PlusRemove\bin\Debug\01.PlusRemove.exe
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\01.PlusRemove\bin\Debug\01.PlusRemove.pdb
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\01.PlusRemove\obj\Debug\01.PlusRemove.csprojResolveAssemblyReference.cache
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\01.PlusRemove\obj\Debug\01.PlusRemove.exe
+C:\Users\EmoR\Desktop\Advanced-CSharp-Exam-Preparation\01.PlusRemove\obj\Debug\01.PlusRemove.pdb

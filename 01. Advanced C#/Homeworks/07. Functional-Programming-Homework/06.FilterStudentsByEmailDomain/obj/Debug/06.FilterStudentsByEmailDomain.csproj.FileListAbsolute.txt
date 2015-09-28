@@ -1,0 +1,5 @@
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\06.FilterStudentsByEmailDomain\bin\Debug\06.FilterStudentsByEmailDomain.exe.config
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\06.FilterStudentsByEmailDomain\bin\Debug\06.FilterStudentsByEmailDomain.exe
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\06.FilterStudentsByEmailDomain\bin\Debug\06.FilterStudentsByEmailDomain.pdb
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\06.FilterStudentsByEmailDomain\obj\Debug\06.FilterStudentsByEmailDomain.exe
+E:\Visual Studio\Projects\Advanced C#\07.Functional-Programming\06.FilterStudentsByEmailDomain\obj\Debug\06.FilterStudentsByEmailDomain.pdb

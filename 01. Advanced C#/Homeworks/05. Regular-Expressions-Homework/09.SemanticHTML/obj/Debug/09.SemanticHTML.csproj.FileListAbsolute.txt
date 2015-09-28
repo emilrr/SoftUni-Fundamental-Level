@@ -1,0 +1,5 @@
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\09.SemanticHTML\bin\Debug\09.SemanticHTML.exe.config
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\09.SemanticHTML\bin\Debug\09.SemanticHTML.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\09.SemanticHTML\bin\Debug\09.SemanticHTML.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\09.SemanticHTML\obj\Debug\09.SemanticHTML.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\09.SemanticHTML\obj\Debug\09.SemanticHTML.pdb

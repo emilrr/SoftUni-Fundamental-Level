@@ -1,0 +1,11 @@
+E:\Visual Studio\Projects\Advanced C#\05.Regular-Expressions\02.ReplaceАtag\bin\Debug\02.ReplaceАtag.exe.config
+E:\Visual Studio\Projects\Advanced C#\05.Regular-Expressions\02.ReplaceАtag\bin\Debug\02.ReplaceАtag.exe
+E:\Visual Studio\Projects\Advanced C#\05.Regular-Expressions\02.ReplaceАtag\bin\Debug\02.ReplaceАtag.pdb
+E:\Visual Studio\Projects\Advanced C#\05.Regular-Expressions\02.ReplaceАtag\obj\Debug\02.ReplaceАtag.exe
+E:\Visual Studio\Projects\Advanced C#\05.Regular-Expressions\02.ReplaceАtag\obj\Debug\02.ReplaceАtag.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\02.ReplaceАtag\bin\Debug\02.ReplaceАtag.exe.config
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\02.ReplaceАtag\obj\Debug\02.ReplaceАtag.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\02.ReplaceАtag\obj\Debug\02.ReplaceАtag.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\02.ReplaceАtag\bin\Debug\02.ReplaceАtag.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\02.ReplaceАtag\bin\Debug\02.ReplaceАtag.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\05. Regular-Expressions-Homework\02.ReplaceАtag\obj\Debug\02.ReplaceАtag.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+E:\Visual Studio\Projects\Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.exe.config
+E:\Visual Studio\Projects\Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.exe
+E:\Visual Studio\Projects\Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.pdb
+E:\Visual Studio\Projects\Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.exe
+E:\Visual Studio\Projects\Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.pdb
+E:\Visual Studio\Projects\02. Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.exe.config
+E:\Visual Studio\Projects\02. Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.exe
+E:\Visual Studio\Projects\02. Advanced C#\03.Multidimensional-Arrays-Sets-Dictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.exe.config
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\03. Multidimensional-Arrays-Sets-Dictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.pdb

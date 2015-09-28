@@ -1,0 +1,12 @@
+E:\Visual Studio\Projects\02.Advanced C#\01.Arrays-Lists-Stacks-Queues\05.Longest-Increasing-Sequence\bin\Debug\05.Longest-Increasing-Sequence.exe.config
+E:\Visual Studio\Projects\02.Advanced C#\01.Arrays-Lists-Stacks-Queues\05.Longest-Increasing-Sequence\obj\Debug\05.Longest-Increasing-Sequence.exe
+E:\Visual Studio\Projects\02.Advanced C#\01.Arrays-Lists-Stacks-Queues\05.Longest-Increasing-Sequence\obj\Debug\05.Longest-Increasing-Sequence.pdb
+E:\Visual Studio\Projects\02.Advanced C#\01.Arrays-Lists-Stacks-Queues\05.Longest-Increasing-Sequence\bin\Debug\05.Longest-Increasing-Sequence.exe
+E:\Visual Studio\Projects\02.Advanced C#\01.Arrays-Lists-Stacks-Queues\05.Longest-Increasing-Sequence\bin\Debug\05.Longest-Increasing-Sequence.pdb
+E:\Visual Studio\Projects\02.Advanced C#\01.Arrays-Lists-Stacks-Queues\05.Longest-Increasing-Sequence\obj\Debug\05.LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\05.Longest-Increasing-Sequence\bin\Debug\05.Longest-Increasing-Sequence.exe.config
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\05.Longest-Increasing-Sequence\bin\Debug\05.Longest-Increasing-Sequence.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\05.Longest-Increasing-Sequence\bin\Debug\05.Longest-Increasing-Sequence.pdb
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\05.Longest-Increasing-Sequence\obj\Debug\05.LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\05.Longest-Increasing-Sequence\obj\Debug\05.Longest-Increasing-Sequence.exe
+E:\Visual Studio\Projects\02. SoftUni-Fundamental-Level\01. Advanced C#\Homeworks\01. Arrays-Lists-Stacks-Queues-Homework\05.Longest-Increasing-Sequence\obj\Debug\05.Longest-Increasing-Sequence.pdb
