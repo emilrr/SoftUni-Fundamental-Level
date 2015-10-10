@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni-Fundamental-Level\01. Advanced C#\Exams\AdvancedCSharpExam19July2015\02.ArraySlider\bin\Debug\02.ArraySlider.exe.config
+D:\SoftUni\SoftUni-Fundamental-Level\01. Advanced C#\Exams\AdvancedCSharpExam19July2015\02.ArraySlider\bin\Debug\02.ArraySlider.exe
+D:\SoftUni\SoftUni-Fundamental-Level\01. Advanced C#\Exams\AdvancedCSharpExam19July2015\02.ArraySlider\bin\Debug\02.ArraySlider.pdb
+D:\SoftUni\SoftUni-Fundamental-Level\01. Advanced C#\Exams\AdvancedCSharpExam19July2015\02.ArraySlider\obj\Debug\02.ArraySlider.exe
+D:\SoftUni\SoftUni-Fundamental-Level\01. Advanced C#\Exams\AdvancedCSharpExam19July2015\02.ArraySlider\obj\Debug\02.ArraySlider.pdb
+D:\SoftUni\SoftUni-Fundamental-Level\01. Advanced C#\Exams\AdvancedCSharpExam19July2015\02.ArraySlider\obj\Debug\02.ArraySlider.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni-Fundamental-Level\01. Advanced C#\Exams\AdvancedCSharpExam19July2015\03.RageQuit\bin\Debug\03.RageQuit.exe.config
+D:\SoftUni\SoftUni-Fundamental-Level\01. Advanced C#\Exams\AdvancedCSharpExam19July2015\03.RageQuit\bin\Debug\03.RageQuit.exe
+D:\SoftUni\SoftUni-Fundamental-Level\01. Advanced C#\Exams\AdvancedCSharpExam19July2015\03.RageQuit\bin\Debug\03.RageQuit.pdb
+D:\SoftUni\SoftUni-Fundamental-Level\01. Advanced C#\Exams\AdvancedCSharpExam19July2015\03.RageQuit\obj\Debug\03.RageQuit.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni-Fundamental-Level\01. Advanced C#\Exams\AdvancedCSharpExam19July2015\03.RageQuit\obj\Debug\03.RageQuit.exe
+D:\SoftUni\SoftUni-Fundamental-Level\01. Advanced C#\Exams\AdvancedCSharpExam19July2015\03.RageQuit\obj\Debug\03.RageQuit.pdb

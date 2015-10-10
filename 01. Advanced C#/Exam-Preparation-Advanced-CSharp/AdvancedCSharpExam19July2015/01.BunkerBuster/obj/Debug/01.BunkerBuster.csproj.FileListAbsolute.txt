@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni-Fundamental-Level\01. Advanced C#\Exams\AdvancedCSharpExam19July2015\01.BunkerBuster\bin\Debug\01.BunkerBuster.exe.config
+D:\SoftUni\SoftUni-Fundamental-Level\01. Advanced C#\Exams\AdvancedCSharpExam19July2015\01.BunkerBuster\bin\Debug\01.BunkerBuster.exe
+D:\SoftUni\SoftUni-Fundamental-Level\01. Advanced C#\Exams\AdvancedCSharpExam19July2015\01.BunkerBuster\bin\Debug\01.BunkerBuster.pdb
+D:\SoftUni\SoftUni-Fundamental-Level\01. Advanced C#\Exams\AdvancedCSharpExam19July2015\01.BunkerBuster\obj\Debug\01.BunkerBuster.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni-Fundamental-Level\01. Advanced C#\Exams\AdvancedCSharpExam19July2015\01.BunkerBuster\obj\Debug\01.BunkerBuster.exe
+D:\SoftUni\SoftUni-Fundamental-Level\01. Advanced C#\Exams\AdvancedCSharpExam19July2015\01.BunkerBuster\obj\Debug\01.BunkerBuster.pdb
